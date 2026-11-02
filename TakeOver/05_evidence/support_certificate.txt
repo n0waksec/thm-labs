@@ -1,0 +1,6 @@
+subject=C=US, ST=Oregon, L=Portland, O=Futurevera, OU=Thm, CN=support.futurevera.thm
+issuer=C=US, ST=Oregon, L=Portland, O=Futurevera, OU=Thm, CN=support.futurevera.thm
+notBefore=Mar 13 14:26:24 2022 GMT
+notAfter=Mar 12 14:26:24 2024 GMT
+X509v3 Subject Alternative Name: 
+    DNS:secrethelpdesk934752.support.futurevera.thm

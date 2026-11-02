@@ -1,0 +1,4 @@
+subject=C=US, ST=Oregon, L=Portland, O=Futurevera, OU=Thm, CN=futurevera.thm
+issuer=C=US, ST=Oregon, L=Portland, O=Futurevera, OU=Thm, CN=futurevera.thm
+notBefore=Mar 13 10:05:19 2022 GMT
+notAfter=Mar 13 10:05:19 2023 GMT
